@@ -1,3 +1,10 @@
+# Aqui está um código em C que atende aos requisitos do desafio Novato:
+
+Batalha Naval
+Esse código cria um tabuleiro virtual e posiciona dois navios utilizando vetores bidimensionais. Cada navio possui três partes, sendo um posicionado verticalmente e outro horizontalmente. O programa exibe as coordenadas de cada parte no console. O script exibe um tabuleiro visual, onde os navios são representados por 'V' (vertical) e 'H' (horizontal), e o restante do tabuleiro é preenchido com '~' para indicar água. 🚢💥
+
+
+______
 # ⚠️ Importante!!!
 Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
 
